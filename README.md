@@ -13,8 +13,10 @@ Tech Stack
 ## install dependencies
 npm install
 
-## serve with hot reload at localhost:8080
+## run for dev
 npm run dev
+node server.js
+access http://localhost:8080/ via your browser
 
 ## build for production with minification
 npm run build
