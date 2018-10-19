@@ -8,28 +8,28 @@ Tech Stack
 - Socket.io
 - ElementUI
 
-## Quick start
+# Quick start
 
-# install dependencies
+## install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+## serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
+## build for production with minification
 npm run build
 
-# Serving
+## serving
 npm run start
 
-# Access
+## access
 access http://localhost:3000/ via your browser
 
-# Docker
+## Docker
 Please bind port 3000 of the container to port 3000 on localhost of the host machine.
 
 
-## Question Answers
+# Question Answers
 1. If you had more time, what would you change or focus more time on?
 A: At first, I would spend more time on communications with users for requirement elicitation. The given user story is to short for this purposes. Second, Security feature would be implemented for both information protection and privacy issues. Third, improve the notification functionality with classifying info level based on locations (i.e. leaving home / entering unknown area should be hazardous so a warning should be sent to clinicians.
 
@@ -40,7 +40,7 @@ A: Define and learn to use suitable technologies for this solution. This task hi
 A: Since this project aims to serve clinicians and their patients with real-data location data, security and privacy considerations should be a high priority. Hence, this application also needs to help clinicians to identify potential hazards in a short time, which means data filtering and classification would be useful.
 
 
-## Closing Interview Questions
+# Closing Interview Questions
 1. What did you like about this interview?
 A: I think this technical test is exciting and challenging, especially the 'real-time' requirement. Since I am not familiar with such a task, it is very interesting for me to find solutions and learn new tools.
 
