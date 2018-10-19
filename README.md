@@ -7,6 +7,9 @@ Tech Stack
 - Node/Express
 - Socket.io
 - ElementUI
+- JWT
+
+
 
 # Quick start
 
@@ -33,6 +36,7 @@ access http://localhost:3000/ via your browser
 
 ## Docker
 Please bind port 3000 of the container to port 3000 on localhost of the host machine.
+
 
 
 # Question Answers
