@@ -1,10 +1,15 @@
-# monitoringportal
+# MonitoringPortal
 
-> A Vue.js project
+This is a tiny application provide a real-time portal for users to monitor their patients' activities
 
-## Build Setup
+Technology stack
+- Vue
+- Node/Express
+- Socket.io
+- ElementUI
 
-``` bash
+## Quick start
+
 # install dependencies
 npm install
 
@@ -14,14 +19,10 @@ npm run dev
 # build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
+# Serving
+npm run start
 
-# run unit tests
-npm run unit
+# Access
+access http://localhost:3000/ via your browser
 
-# run all tests
-npm test
-```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
