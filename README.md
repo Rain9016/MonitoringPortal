@@ -15,8 +15,12 @@ npm install
 
 ## run for dev
 npm run dev
+
 node server.js
+
 access http://localhost:8080/ via your browser
+
+
 
 ## build for production with minification
 npm run build
